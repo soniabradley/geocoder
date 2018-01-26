@@ -5,3 +5,9 @@ Geocoder converts addresses (like a street address) into geographic coordinates 
 * [Node.js](https://nodejs.org/en/) Enables JavaScript to be used for server-side scripting and runs scripts on the server-side (terminal) to produce dynamic web page content before the page is sent to the user's web browser. 
 * [npm geocoder](https://www.npmjs.com/package/geocoder) NPM Package installed.
 * [package.json](https://docs.npmjs.com/getting-started/using-a-package.json) Dependency Folder, the directory of all the packages we will be needing for this project.  
+
+# To Do
+* I dont know why the app works but package.json and node_modules do not appear on repository or terminal???
+
+# Author
+Sonia Molina Bradley
