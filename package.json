@@ -1,0 +1,19 @@
+{
+  "name": "geocoder",
+  "version": "1.0.0",
+  "description": "Geocoder converts addresses (like a street address) into geographic coordinates (like latitude and longitude), which may be used to place markers on a map, or a position the map. Reverse geocoding converts geographic coordinates into a human-readable address.",
+  "main": "geocoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniabradley/geocoder.git"
+  },
+  "author": "soniab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniabradley/geocoder/issues"
+  },
+  "homepage": "https://github.com/soniabradley/geocoder#readme"
+}

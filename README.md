@@ -6,8 +6,7 @@ Geocoder converts addresses (like a street address) into geographic coordinates 
 * [npm geocoder](https://www.npmjs.com/package/geocoder) NPM Package installed.
 * [package.json](https://docs.npmjs.com/getting-started/using-a-package.json) Dependency Folder, the directory of all the packages we will be needing for this project.  
 
-# To Do
-* I dont know why the app works but package.json and node_modules do not appear on repository or terminal???
+* Terminal entry -> node geocoder.js [location]
 
 # Author
 Sonia Molina Bradley
